@@ -7,5 +7,5 @@ Système Electronique:
 Système Logiciel:
 
 	Resolume
-  Programme qui traduit l’arrivé du poids par un signal Midi et l’enlèvement par un autre signal Midi.
+  	Programme qui traduit l’arrivé du poids par un signal Midi et l’enlèvement par un autre signal Midi.
 		Optionnel : Différents signaux suivant le poids du verre et son contenant.
